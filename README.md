@@ -1,4 +1,4 @@
-# TelethonLessons
+# Byte of Telethon
 Представляю цикл статей по изучению библиотеки Telethon для Telegram API
 
 Все статьи:<br>
